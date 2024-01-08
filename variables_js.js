@@ -6,6 +6,8 @@
  *      -number
  *      -string
  *      -boolean
+
+ * 
  * 
  * Declarar variables numericas y realizar las operaciones aritmeticas basicas
  *      -suma
@@ -21,3 +23,5 @@
  *  CONSIDERACIONES: poner en practica las mejores practicas para declaracion de variables.
  * Imprimir los resultados en pantalla con un console.log()
  */
+
+let nombre = "Alberto"
